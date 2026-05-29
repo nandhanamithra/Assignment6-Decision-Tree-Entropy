@@ -1,5 +1,5 @@
-# Assignment6-Decision-Tree-Entropy
-Assignment 6 about Decision Tree (Entropy Method) done by Mithra Nandhana B A 
+# Assignment5-Decision-Tree-Entropy
+Assignment 5 about Decision Tree (Entropy Method) done by Mithra Nandhana B A 
 
 ## Problem Statement
 A mechanical company wants to predict whether a machine will fail based on the parameters Temperature and Vibration.
